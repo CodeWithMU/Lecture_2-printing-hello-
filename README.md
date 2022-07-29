@@ -1,2 +1,10 @@
-# Lecture_2-printing-hello-
-here is the code of lecture number two printing hello word
+#include<iostream>
+//input and output stream  cin cout 
+using namespace std;
+int main()
+{
+    // i write hello
+    cout<<"hello ";
+    cout<<"\nhello";
+    return 0;
+}
